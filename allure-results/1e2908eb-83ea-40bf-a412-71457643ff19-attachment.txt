@@ -1,0 +1,3 @@
+user radio button: true
+terms checkbox button: true
+terms checkbox button: false

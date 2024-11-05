@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3165","@smoke Test with context","","Sun Nov 03 11:12:31 IST 2024","passed","Sun Nov 03 11:12:34 IST 2024","","MyFirstTest.spec.js","",""
+"","2124","@smoke array of elements homework 2","","Sun Nov 03 11:12:31 IST 2024","passed","Sun Nov 03 11:12:33 IST 2024","","MyFirstTest.spec.js","",""
+"","1840","@smoke @sanity UI Contols Test","","Sun Nov 03 11:12:31 IST 2024","passed","Sun Nov 03 11:12:33 IST 2024","","MyFirstTest.spec.js","",""

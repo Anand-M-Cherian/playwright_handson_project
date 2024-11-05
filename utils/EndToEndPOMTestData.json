@@ -1,0 +1,20 @@
+[
+    {
+      "requriedProduct": "ADIDAS ORIGINAL",
+      "emailId": "fullstackdeveloper+1234@gmail.com",
+      "password": "Password123!@#",
+      "country": "India",
+      "cvv": "123",
+      "nameOnCard": "Anand",
+      "coupon": "rahulshettyacademy"
+    },
+    {
+      "requriedProduct": "ZARA COAT 3",
+      "emailId": "anand@ygag.com",
+      "password": "Ygag123!@",
+      "country": "India",
+      "cvv": "123",
+      "nameOnCard": "Rahul",
+      "coupon": "rahulshettyacademy"
+    }
+]
